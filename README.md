@@ -63,6 +63,11 @@ The [tangent][tangent] is defined as
 ## Usage
 
 ```javascript
+import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-tan/tags). For example,
+
+```javascript
 import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@v0.2.1-esm/index.mjs';
 ```
 
@@ -102,7 +107,7 @@ v = tan( NaN );
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@esm/index.mjs';
-import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@v0.2.1-esm/index.mjs';
+import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@esm/index.mjs';
 
 var x = linspace( -PI/2.0, PI/2.0, 100 );
 
