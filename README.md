@@ -63,7 +63,7 @@ The [tangent][tangent] is defined as
 ## Usage
 
 ```javascript
-import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@esm/index.mjs';
+import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@v0.3.0-esm/index.mjs';
 ```
 
 #### tan( x )
@@ -102,7 +102,7 @@ v = tan( NaN );
 
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@esm/index.mjs';
-import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@esm/index.mjs';
+import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@v0.3.0-esm/index.mjs';
 
 var x = linspace( -PI/2.0, PI/2.0, 100 );
 
