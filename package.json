@@ -44,12 +44,12 @@
     "@stdlib/constants-float64-high-word-exponent-mask": "^0.2.2",
     "@stdlib/math-base-napi-unary": "^0.2.3",
     "@stdlib/math-base-special-kernel-tan": "^0.2.3",
-    "@stdlib/math-base-special-rempio2": "^0.2.1",
+    "@stdlib/math-base-special-rempio2": "^0.3.0",
     "@stdlib/number-float64-base-get-high-word": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.2"
   },
   "devDependencies": {
-    "@stdlib/array-base-linspace": "^0.2.1",
+    "@stdlib/array-base-linspace": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-ninf": "^0.2.2",
     "@stdlib/constants-float64-pi": "^0.2.2",
