@@ -46,7 +46,8 @@
     "@stdlib/math-base-special-kernel-tan": "^0.2.3",
     "@stdlib/math-base-special-rempio2": "^0.3.0",
     "@stdlib/number-float64-base-get-high-word": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-linspace": "^0.2.2",
