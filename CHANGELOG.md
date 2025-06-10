@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-06-10)
 
 <section class="reverts">
 
@@ -34,6 +34,8 @@ This release closes the following issue:
 
 <details>
 
+-   [`84cf373`](https://github.com/stdlib-js/stdlib/commit/84cf373b5eb74582d81aee0ae21cceba495f86bb) - **docs:** update header comment for consistency _(by Karan Anand)_
+-   [`61efe84`](https://github.com/stdlib-js/stdlib/commit/61efe840e2afe996146a95025039d6b8829b23e2) - **test:** fix range typo and regenerate fixture _(by Karan Anand)_
 -   [`3c14a0f`](https://github.com/stdlib-js/stdlib/commit/3c14a0ff86030c922414336e82cb027deb18d709) - **docs:** replace manual `for` loop in examples [(#6643)](https://github.com/stdlib-js/stdlib/pull/6643) _(by Harsh)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_
 -   [`d9ad02c`](https://github.com/stdlib-js/stdlib/commit/d9ad02ca1c902ca787d9e9135160871379e40829) - **test:** add tests for IEEE 754-2019 compliance [(#6557)](https://github.com/stdlib-js/stdlib/pull/6557) _(by Karan Anand)_
