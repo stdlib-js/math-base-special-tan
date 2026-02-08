@@ -63,7 +63,7 @@ The [tangent][tangent] is defined as
 ## Usage
 
 ```javascript
-import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@deno/mod.js';
+import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@v0.3.1-deno/mod.js';
 ```
 
 #### tan( x )
@@ -98,7 +98,7 @@ v = tan( NaN );
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
 import PI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-pi@deno/mod.js';
-import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@deno/mod.js';
+import tan from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-tan@v0.3.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
